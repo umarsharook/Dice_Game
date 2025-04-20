@@ -18,4 +18,4 @@ Step into the world of chance with this interactive **Dice Game**, where every r
 Feel free to fork it, play it, and improve it!
 
 > Built for fun, learning, and a dash of luck. 🍀
-### A trail apk also avalible for you 
+### A trail apk also available for you 
